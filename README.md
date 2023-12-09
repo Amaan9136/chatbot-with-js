@@ -21,24 +21,17 @@ git clone chatbot-with-js
 - Open the `index.html` file in your web browser.
 
 ## File Structure
-
 - `index.html`: Initial page for the chat bot.
 - `script.js`: JavaScript file containing the bot logic.
 
 ## Usage
-
 - Open `index.html` in a web browser to access the chat bot interface.
 - Start typing messages to interact with the bot.
 
 ## Contributing
-
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit a pull request.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-## License
-
 This project does not have a designated license. It means that others can view and use the code but cannot modify or distribute it without explicit permission.
 
 ## Acknowledgements
